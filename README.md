@@ -4,4 +4,4 @@
 
   <h2>LeetCode Stats</h2>
   
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dicere&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dicere&theme=dark)](https://leetcode.com/Dicere/)
