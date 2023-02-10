@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student,who loves Data Science and is constantly developing in it</h3>
 
-<!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dicere&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 **Dicere/Dicere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
