@@ -36,8 +36,8 @@
 
 <h3>Creation of 3D models of historical figures for AR applications</h3>
 <ul>
-  <li>Performed full cycle 3D modelling of historical figures for Augmented Reality applications</li>
-  <li>Gathered references, recorded facial animations and movements, voice acting and testing in game engines</li>
+  <li>Performed full cycle 3D modelling of historical figures for Augmented Reality applications
+   Gathered references, recorded facial animations and movements, voice acting and testing in game engines</li>
 </ul>
 
 <h3>Other Projects:</h3>
