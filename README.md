@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Yaroslav</a> 
+<h1>Hello and welcome to my page!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Programming Languages</h2>
 <ul>
