@@ -43,6 +43,12 @@
 <ul>
   <li>Worked on various machine learning projects involving data cleaning, data analysis, and predictive modeling using Python and various libraries</li>
 </ul>
+<p>Thanks for stopping by!</p>
+	<h2>Contact Information</h2>
+	<ul>
+		<li>Email: tolikov2000@mail.ru</li>
+		<li>Telegram: <a href="https://t.me/Rixean">Rixean</a></li>
+    <li>Kaggle: <a href="https://www.kaggle.com/thedark735">thedark735</a></li>
   <h2>LeetCode Stats</h2>
   
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Dicere&theme=dark)](https://leetcode.com/Dicere/)
