@@ -8,6 +8,7 @@
 <h2>Machine Learning Frameworks</h2>
 <ul>
   <li>Tensorflow (intermediate)</li>
+  <li>Pytorch (intermediate)</li>
 </ul>
 
 <h2>Gradient Boosting Libraries</h2>
